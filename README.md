@@ -1,4 +1,4 @@
-# termux-primary
+### Termux primary commands are all here
 
 ## Termux File and Directory Creating
 * touch [file name] – used to create new file
@@ -205,5 +205,5 @@ Abdullahalemon2
 
 
 ## I'm here
-emu171282@gmail.com
-emonvau999@gmail.com
+> emu171282@gmail.com
+> emonvau999@gmail.com
